@@ -44,6 +44,3 @@ http://localhost:3000
 ## Output
 
 ![Flipbook Reader](screenshot folder has sample examples)
-## Output
-
-![Flipbook Reader](screenshots/flipbook-ui.png)

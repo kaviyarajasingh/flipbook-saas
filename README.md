@@ -44,3 +44,7 @@ http://localhost:3000
 ## Output
 
 ![Flipbook Reader](screenshot folder has sample examples)
+screenshot/Zoom-in.PNG
+screenshot/nightMode.PNG
+screenshot/overallOutput.PNG
+screenshot/thumbnailPreview.PNG

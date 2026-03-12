@@ -43,8 +43,8 @@ http://localhost:3000
 ```
 ## Output
 
-![Flipbook Reader](screenshot folder has sample examples)
-screenshot/Zoom-in.PNG
-screenshot/nightMode.PNG
-screenshot/overallOutput.PNG
-screenshot/thumbnailPreview.PNG
+screenshot folder has sample examples:
+![Flipbook Reader](screenshot/Zoom-in.PNG)
+![Flipbook Reader](screenshot/nightMode.PNG)
+![Flipbook Reader](screenshot/overallOutput.PNG)
+![Flipbook Reader](screenshot/thumbnailPreview.PNG)
